@@ -21,8 +21,6 @@
 -->
 
 
-[![YamilH]([https://beatrizsmerino.github.io/rick-and-morty/README/images/Screenshot_4.jpg](https://beatrizsmerino.github.io/rick-and-morty/assets/images/portal-rick-and-morty.gif) "App Rick and Morty")]([https://beatrizsmerino.github.io/rick-and-morty/](https://www.google.com.ar/))
-
 
 <!--
 **YamilH/YamilH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
