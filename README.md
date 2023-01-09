@@ -14,12 +14,14 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <!--
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YamilH&show_icons=true&theme=gruvbox" alt="YamilH" />
 -->
 
+
+[![YamilH]([https://beatrizsmerino.github.io/rick-and-morty/README/images/Screenshot_4.jpg](https://beatrizsmerino.github.io/rick-and-morty/assets/images/portal-rick-and-morty.gif) "App Rick and Morty")]([https://beatrizsmerino.github.io/rick-and-morty/](https://www.google.com.ar/))
 
 
 <!--
