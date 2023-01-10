@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 
 
 
@@ -37,7 +37,9 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
+<img src="https://user-images.githubusercontent.com/112255242/211441210-0d5bfca8-6189-4f9e-812a-9dc82f8ff56f.gif" width="150">
 
+![66833e07d6fb9eb5d724e47d0c814285](https://user-images.githubusercontent.com/112255242/211441238-7ea7f97a-fab3-478e-ba40-f42d4188f35e.gif)
 
 <!--
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -61,3 +63,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<img align="center" alt="RickAndMortyDriving" width="400" src="https://user-images.githubusercontent.com/112255242/211441132-4b2082b9-1d94-4573-b102-3ade565e3bf8.gif">
+
