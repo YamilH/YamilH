@@ -5,7 +5,8 @@
 
 <br>
 
-#### Hi!, I'm Yamil and I'm self-taught in every matter that I find pertinent.
+## About me
+Hi!, I'm Yamil and I'm self-taught in every matter that I find pertinent.
   
 ## Contact
 
