@@ -15,11 +15,11 @@ Hi!, I'm Yamil and I'm self-taught in every matter that I find interesting or im
   <a href="https://instagram.com/yamihamui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 ## Current Project/s
-■ // Air Quality App // <br>
-■ // New Twitter Bot // <br>
+■ // Angular Project // <br>
+■ // React Native Project // <br>
  
 ## Currently Learning
-■ React <br>
+■ Vite <br>
 ■ Docker and database utilities <br>
  
 
