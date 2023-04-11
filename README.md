@@ -10,7 +10,9 @@
 ## About me
 Hi!, I'm Yamil and I'm self-taught in every matter that I find interesting or important.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YamilH)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YamilH&layout=compact)]
+
   
 ## Contact
 
