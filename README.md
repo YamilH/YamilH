@@ -11,7 +11,7 @@
 Hi!, I'm Yamil and I'm self-taught in every matter that I find interesting or important.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YamilH&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YamilH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ## Contact
