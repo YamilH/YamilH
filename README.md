@@ -2,7 +2,8 @@
 
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YamilH)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](align="right" alt="Coding" width="350" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YamilH")](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
