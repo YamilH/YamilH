@@ -2,13 +2,14 @@
 
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YamilH)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
 ## About me
 Hi!, I'm Yamil and I'm self-taught in every matter that I find interesting or important.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YamilH)](https://github.com/anuraghazra/github-readme-stats)
+
   
 ## Contact
 
