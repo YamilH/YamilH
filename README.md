@@ -30,7 +30,7 @@ Hi!, I'm Yamil and I'm self-taught in every matter that I find interesting or im
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,reactnative,angular,typescript&perline=6)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,angular,typescript,node,cs,dotnet,java&perline=11)]
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
