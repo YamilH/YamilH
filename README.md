@@ -16,9 +16,14 @@ Hi!, I'm Yamil and I'm self-taught in every matter that I find interesting or im
   
 ## Contact
 
-  <a href="https://www.linkedin.com/in/yamilhamui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:yamilhamui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/yamihamui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+![My Skills](https://skillicons.dev/icons?i=linkedin)
+![My Skills](https://skillicons.dev/icons?i=gmail)
+![My Skills](https://skillicons.dev/icons?i=instagram)
+
+
+  <a href="https://www.linkedin.com/in/yamilhamui" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
+  <a href = "mailto:yamilhamui@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
+  <a href="https://instagram.com/yamihamui" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
  
 ## Current Project/s
 ■ // ASP .NET Project / Client - Server // <br>
@@ -30,7 +35,7 @@ Hi!, I'm Yamil and I'm self-taught in every matter that I find interesting or im
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,angular,typescript,nodejs,cs,dotnet,java&perline=11)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,angular,nodejs,cs,dotnet,java&perline=10)
 
 ## Tools
 
