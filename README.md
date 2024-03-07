@@ -21,19 +21,18 @@ Hi!, I'm Yamil and I'm self-taught in every matter that I find interesting or im
   <a href="https://instagram.com/yamihamui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 ## Current Project/s
-■ // Angular Project / Client - Server // <br>
-■ // E-Commerce // <br>
+■ // ASP .NET Project / Client - Server // <br>
  
 ## Currently Learning
 ■ C# <br>
 ■ .NET <br>
- 
-
-
-
 
 
 ## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,reactnative,angular,typescript&perline=6)]
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -58,6 +57,8 @@ Hi!, I'm Yamil and I'm self-taught in every matter that I find interesting or im
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
+## Tools
 
 
 <!--
