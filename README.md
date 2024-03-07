@@ -3,8 +3,7 @@
 ## About me
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 Hi!, I'm Yamil and I'm self-taught in every matter that I find interesting or important.
-<br>
-
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YamilH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 ## Contact
